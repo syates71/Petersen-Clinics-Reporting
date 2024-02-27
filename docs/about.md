@@ -1,6 +1,6 @@
 ## About this Site
 
-This is a test site set up to explore the various advantages of using GitHub to share information.
+This repository stores documentation, instructions and .do files for running Petersen Clinics program and operational reporting.
 
 
 ## About Me
