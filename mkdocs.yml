@@ -53,7 +53,9 @@ nav:
 - Home: index.md
 - About: about.md
 - Data Dictionary: Data_Management_Plan.md
-
+- Codebase:
+    Installation and Requirements: installation.md
+    User Manual: manual.md
 
 # Extra Plugins
 plugins:
