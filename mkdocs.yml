@@ -52,9 +52,6 @@ icon:
 nav:
 - Home: index.md
 - About: about.md
-  - Codebase: 
-      Installation and Requirements: installation.md
-      User Manual: manual.md
 - Data Dictionary: Data_Management_Plan.md
 
 
